@@ -5,3 +5,4 @@ seaborn
 # Data Analysis libraries
 pandas
 numpy
+scipy
