@@ -15,3 +15,4 @@ Course : [Machine Learning (Stanford University)](https://www.coursera.org/learn
 + Exercise 1 : [Linear Regression](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-1/ex1.ipynb)
 + Exercise 2 : [Logistic Regression](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-2/ex2.ipynb)
 + Exercise 3 : [Multi-class Classification and Neural Networks](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-3/ex3.ipynb)
++ Exercise 4 : [Neural Networks Learning](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-4/ex4.ipynb)
