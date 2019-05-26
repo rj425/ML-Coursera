@@ -6,3 +6,4 @@ seaborn
 pandas
 numpy
 scipy
+cvxopt
