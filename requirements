@@ -7,3 +7,4 @@ pandas
 numpy
 scipy
 cvxopt
+stemming
