@@ -19,4 +19,4 @@ Course : [Machine Learning (Stanford University)](https://www.coursera.org/learn
 + Exercise 4 : [Neural Networks Learning](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-4/ex4.ipynb)
 + Exercise 5 : [Regularized Linear Regression and Bias v.s. Variance](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-5/ex5.ipynb)
 + Exercise 6 : [Support Vector Machines](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-6/ex6.ipynb)
-+ Exercise 7 : [K-means Clustering and Principal Component Analysis](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/rj_dev/Exercise-7/ex7.ipynb)
++ Exercise 7 : [K-means Clustering and Principal Component Analysis](https://nbviewer.jupyter.org/github/rj425/ML-Coursera/blob/master/Exercise-7/ex7.ipynb)
