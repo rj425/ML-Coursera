@@ -2,7 +2,7 @@
 
 I'm really glad you're reading this, because I need volunteer developers to help this project expand ever further.
 
-If you haven't already, feel free to drop me a message [here](www.linkedin.com/in/rjain425) on LinkedIn). We can work on various other courses on Machine Learning.
+If you haven't already, feel free to drop me a message [here](https://www.linkedin.com/in/rjain425/) on LinkedIn. We can work on various other courses on Machine Learning.
 
 ## Submitting changes
 
