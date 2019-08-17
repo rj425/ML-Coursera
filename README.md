@@ -1,5 +1,7 @@
 # ML-Coursera
 
+<img src="./meme.jpg" width="300" height="300" align="right">
+
 This repository contains all the programming exercises in **Python** for the Coursera course called "Machine Learning" by 
 Adjunct Professor Andrew Ng at Stanford University.  
 
